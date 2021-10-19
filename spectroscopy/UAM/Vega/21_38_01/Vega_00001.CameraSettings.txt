@@ -1,0 +1,37 @@
+[ZWO ASI1600MM Pro]
+Pan=0
+Tilt=0
+Output Format=FITS files (*.fits)
+Binning=1
+Capture Area=4656x3520
+Colour Space=MONO16
+Hardware Binning=Off
+High Speed Mode=On
+Turbo USB=100(Auto)
+Flip=None
+Frame Rate Limit=Maximum
+Gain=100
+Exposure=10,2455
+Timestamp Frames=Off
+Brightness=10
+Temperature=5
+Cooler Power=0
+Target Temperature=-10
+Cooler=Off
+Auto Exp Max Gain=300
+Auto Exp Max Exp M S=30000
+Auto Exp Target Brightness=100
+Pattern Adjust=0
+Banding Threshold=35
+Banding Suppression=0
+Apply Flat=None
+Subtract Dark=None
+#Black Point
+Display Black Point=0
+#MidTone Point
+Display MidTone Point=0,5
+#White Point
+Display White Point=1
+Notes=
+TimeStamp=2020-10-14T19:37:58.8687257Z
+SharpCapVersion=3.2.6396.0
