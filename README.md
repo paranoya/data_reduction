@@ -1,5 +1,7 @@
 # data_reduction
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/paranoya/data_reduction/HEAD)
+
 Data reduction scripts to illustrate different steps of the process:
 
 ## Photometry
@@ -21,3 +23,4 @@ All these steps may be carry out independently, and they are, to a large extent,
 ## Spectroscopy
 
 At the time, I've just uploaded the work done by David San Andres de Pedro and Jaume Zuriaga Puig in 2021.
+
